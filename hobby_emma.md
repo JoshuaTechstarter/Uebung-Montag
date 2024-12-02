@@ -1,5 +1,5 @@
-#Uebungsaufgabe
+# Uebungsaufgabe
 
-##Zeichnen
-##Videospiele
-##Astronomie
+## Zeichnen
+## Videospiele
+## Astronomie
